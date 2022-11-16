@@ -1,0 +1,49 @@
+.search-form {
+    padding: 10px 0 20px;
+}
+
+.search-form h1 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.footer-links {
+    background: #82CAFF;
+    float: left;
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.special-searches {
+    float: left;
+    width: 35%
+}
+
+.special-searches p {
+    font-weight: bold;
+    margin: 0;
+    font-size: 14px;
+}
+
+.help {
+    float: left;
+    width: 25%
+}
+
+.google-updates {
+    float: left;
+    width: 40%;
+    text-align: center;
+}
+
+.paragraf {
+    clear: both;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.paragraf p {
+    margin: 0;
+}
